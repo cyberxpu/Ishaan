@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(226, 211, 211);
+}
+.nav-buttons{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 32px;
+    background-color:cornflowerblue;
+}
+.nav-buttons:hover{ 
+    transform: rotate(350deg);
+}
+.title{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:rgb(40, 81, 195)
+}
+.pic1{
+    border-radius: 100px;
+}
+.about{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:rgb(40, 81, 195);
+    font-size: large;
+ }
